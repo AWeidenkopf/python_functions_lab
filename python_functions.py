@@ -31,6 +31,19 @@ def occurences(str1, str2):
 
 # print(occurences('hellolollohelo', 'lo'))
 
+# --------------------------------------------------------------------------- #
+
+# Challenge 4
+
+def product(*args):
+  result = 1 
+  for arg in args:
+    result = result * arg
+  return result
+
+print(product(4, 0.5, 5))
+
+
 
 
 
