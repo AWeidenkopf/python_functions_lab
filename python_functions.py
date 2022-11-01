@@ -8,6 +8,25 @@ def sum_to(n):
     i+= 1
   return sum
 
-# print(sum_to(6))
+# print(sum_to(6)
+
+# --------------------------------------------------------------------------- #
+
+# Challenge 2 
+
+def largest(list):
+  sorted_list =sorted(list)
+  return sorted_list[-1]
+
+
+# print(largest([1221,5,31,6,8,76,1,3]))
+# print(largest([1, 2, 3, 4, 0]))
+
+# --------------------------------------------------------------------------- #
+
+# Challenge 3
+
+
+
 
 
