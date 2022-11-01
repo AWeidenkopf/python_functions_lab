@@ -41,7 +41,7 @@ def product(*args):
     result = result * arg
   return result
 
-print(product(4, 0.5, 5))
+# print(product(4, 0.5, 5))
 
 
 
